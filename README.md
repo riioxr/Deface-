@@ -1,3 +1,3 @@
 # Deface-
-IT IS SAMPLE PAGE<hr>
+IT'S A SAMPLE PAGE<hr>
 <h3>AUTHOR RIIOXR</h3>
